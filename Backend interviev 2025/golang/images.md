@@ -1,0 +1,1 @@
+![E:\собес\bdInterview\go\img_1.png](file:///e%3A/%D1%81%D0%BE%D0%B1%D0%B5%D1%81/bdInterview/go/img_1.png)![E:\собес\bdInterview\go\img_2.png](file:///e%3A/%D1%81%D0%BE%D0%B1%D0%B5%D1%81/bdInterview/go/img_2.png)![E:\собес\bdInterview\go\img.png](file:///e%3A/%D1%81%D0%BE%D0%B1%D0%B5%D1%81/bdInterview/go/img.png)
