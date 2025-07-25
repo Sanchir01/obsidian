@@ -48,7 +48,6 @@ func fanin(ctx context.Context, chans[]int) <-chan int{
 						case <-ctx.Done():	
 							return
 					}
-					
 				}
 			}()
 		}
