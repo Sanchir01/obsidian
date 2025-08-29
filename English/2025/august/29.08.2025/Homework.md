@@ -33,21 +33,31 @@ questions:
 Actor quetions:
 	Emma Watson:
 		1) Is Emma from Great Britain. Where is Emma from
-		2) Is she from city. Where are you from
-		3) Is she medium height. How tall are you
-		4) Is she an actress. Where do you do
-		5)  Is she 35 years old. Where is work
+		2) Is she from Paris. Where are you from
+		3) Is she medium height. How tall is she
+		4) Is she 35 years old. Where is work
+		5) Is she an actress. Where do you do
 		6) Is she known for playing Hermione Granger in Harry Potter. Who you play
-		7) Are her eyes brown. What is your eyes color
-		8) Is her hair light brown. What is your hair color
-		9) Is she marries. 
+		7) Are her eyes brown. What is her eyes color
+		8) Is her hair light brown. What is her hair color
+		9) Is she marries. Why is she married
 	Leonardo Dicaprio:
 		10) Is Leonardo from United States. Where is Leonardo from
 		11) Is he from Los Angeles. Where are you from
-		12) Is he tall. How tall are you
+		12) Is he tall. How tall is he
 		13) Is he 50 years old. How years are you
 		14) Is he an actor Where is work
 		15) Is he known for playing  Jack in Titanic. Who are you play in Titanic
 		16) Are her eyes blue. What is your eyes color
 		17) Is her hair blond. What is your hair color
-		18) Is he not married
+		18) Is he not married. Why is he not married
+	Angelina Jolie:
+		19) Is Angelina from the United States. Where is Angelina from
+		20) Is she from Los Angeles. Where are you from
+		21) Is she tall. What is her height. How tall is she
+		22)  Is she 50 years old.  How years are you
+		23) Is she an actress. What is her profession
+		24) Is she known for playing Lara Croft
+		25) Are her eyes green.  What color are her eyes
+		26) Is her hair dark brown.What color is her hair
+		27) Is she divorced. 
