@@ -43,7 +43,7 @@ Actor quetions:
 		9) Is she marries. Why is she married
 	Leonardo Dicaprio:
 		10) Is Leonardo from United States. Where is Leonardo from
-		11) Is he from Los Angeles. Where are you from
+		11) Is he from Los Angeles. What city
 		12) Is he tall. How tall is he
 		13) Is he 50 years old. How years are you
 		14) Is he an actor Where is work
