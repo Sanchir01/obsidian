@@ -15,3 +15,10 @@ ssh server
 route add 172.20.0.197 mask 255.255.255.255 192.168.62.1
 route add 172.20.0.0 mask 255.255.0.0 192.168.62.1
 route add 192.168.9.0 mask 255.255.255.0 192.168.62.1
+
+
+3x-ui
+hasDefaultCredential: false
+port: 46136
+webBasePath: /BFy1AWyy56wkknmNoJ/ 
+Access URL: http://103.74.92.37:46136/BFy1AWyy56wkknmNoJ/
