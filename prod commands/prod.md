@@ -20,3 +20,7 @@ glm-workpulse
 glmuser
 MndrNgHCmLX5YL3U
 настроен sudo
+
+
+
+sudo docker compose -f docker-compose.prod.yml up gateway
