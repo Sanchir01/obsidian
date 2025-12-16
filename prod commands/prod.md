@@ -30,3 +30,11 @@ sudo docker compose -f docker-compose.prod.yml up gateway
 gitlab
 Логин:SEmgushov 
 Пароль: wA24qyoioEJC24tCCxSz
+
+
+
+docker dump
+docker cp ./synchro_dump.sql atssynchronizer-db-1:/tmp/synchro_dump.sql
+
+
+docker exec -it atssynchronizer-db-1 psql -U postgres -d ats_synchronizer_wrk -h localhost -p 5432 -f ./tmp/synchro_dump.sql
