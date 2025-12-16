@@ -24,3 +24,9 @@ MndrNgHCmLX5YL3U
 
 
 sudo docker compose -f docker-compose.prod.yml up gateway
+
+
+
+gitlab
+Логин:SEmgushov 
+Пароль: wA24qyoioEJC24tCCxSz
