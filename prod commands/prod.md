@@ -14,6 +14,9 @@ sudo docker system prune
 Пароль:1qazXDR%
 В Гит с этими данными пробовал?
 
+виртуала адрес: 172.20.0.197
+ssh aivanov@172.20.0.197
+пароль: 321Employ
 
 glm-workpulse
 10.0.83.13
