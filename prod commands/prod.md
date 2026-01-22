@@ -32,8 +32,8 @@ sudo docker compose -f docker-compose.prod.yml up gateway
 
 gitlab
 Логин:SEmgushov 
-Пароль: wA24qyoioEJC24tCCxSz
-
+Токен: wA24qyoioEJC24tCCxSz
+Пароль: 1qazXDR%
 
 
 docker dump
