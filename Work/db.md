@@ -1,0 +1,1 @@
+ CREATE INDEX idx_gac_created_at ON gree_api_chats(created_at DESC); сделать index
