@@ -46,3 +46,6 @@ docker exec -it atssynchronizer-db-1 psql -U postgres -d ats_synchronizer_wrk -h
 
 token gitlab
 ZtPjcXYBe_u1TpPYYxVP
+
+
+rabbit-saver gitlab token project: glpat-nX2Yvq4MX6fgyv2MWsmt
