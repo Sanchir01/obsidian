@@ -49,3 +49,8 @@ ZtPjcXYBe_u1TpPYYxVP
 
 
 rabbit-saver gitlab token project: glpat-nX2Yvq4MX6fgyv2MWsmt
+
+
+dev server
+admin@gmail.com
+Admin01!
