@@ -54,3 +54,10 @@ rabbit-saver gitlab token project: glpat-nX2Yvq4MX6fgyv2MWsmt
 dev server
 admin@gmail.com
 Admin01!
+
+
+new gitlab token - glpat-P-vNPDRwrQEcKpoGbl4jQm86MQp1OjI3CA.01.0y1s6k6vh
+
+gitlab_user=oauth2
+gitlab_token=glpat-P-vNPDRwrQEcKpoGbl4jQm86MQp1OjI3CA.01.0y1s6k6vh
+GOPRIVATE=gitlab.grandline.com
