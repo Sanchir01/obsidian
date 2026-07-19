@@ -64,3 +64,7 @@ GOPRIVATE=gitlab.grandline.com
 
 
 new gitlab token group workpulse = glpat-RkqORowogLLDXcvi2JSjZG86MQp1OjM3CA.01.0y1oljf84
+
+
+gitlab_user=oauth2
+gitlab_token=glpat-P-vNPDRwrQEcKpoGbl4jQm86MQp1OjI3CA.01.0y1s6k6vh
