@@ -71,4 +71,4 @@ gitlab_token=glpat-P-vNPDRwrQEcKpoGbl4jQm86MQp1OjI3CA.01.0y1s6k6vh
 
 sudo docker-compose --env-file .env.prod -f docker-compose.prod.yml up
 
-sudo DOCKER_BUILDKIT=1 docker-compose build front 
+sudo DOCKER_BUILDKIT=1 docker-compose up --build -d 
